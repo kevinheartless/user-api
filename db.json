@@ -1,0 +1,24 @@
+{
+    "Coke": [
+      {
+        "Open Time": 14000000000,
+        "Open Price": 10,
+        "High Price": 10,
+        "Low Price": 10,
+        "Close Price": 10,
+        "Volume": 10,
+        "No of Trades": 10,
+        "Close time": 14000000000
+      },
+      {
+        "Open Time": 14000000000,
+        "Open Price": 10,
+        "High Price": 10,
+        "Low Price": 10,
+        "Close Price": 10,
+        "Volume": 10,
+        "No of Trades": 10,
+        "Close time": 14000000000
+      }
+    ]
+  }
